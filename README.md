@@ -45,17 +45,13 @@ O projeto foi construído inteiramente via **Prompt Engineering** na plataforma 
 
 ## 📸 Screenshots
 
-### Home
-![Home](./capturas%20de%20tela/Captura%20de%20tela%202026-06-10%20235931.png)
+![Home](capturas%20de%20tela/Captura%20de%20tela%202026-06-10%20235931.png)
 
-### Análise de Rosto IA
-![Análise IA](./capturas%20de%20tela/Captura%20de%20tela%202026-06-10%20235944.png)
+![Análise IA](capturas%20de%20tela/Captura%20de%20tela%202026-06-10%20235944.png)
 
-### Loja de Produtos
-![Loja](./capturas%20de%20tela/Captura%20de%20tela%202026-06-10%20235950.png)
+![Loja](capturas%20de%20tela/Captura%20de%20tela%202026-06-10%20235950.png)
 
-### Login
-![Login](./capturas%20de%20tela/Captura%20de%20tela%202026-06-10%20235955.png)
+![Login](capturas%20de%20tela/Captura%20de%20tela%202026-06-10%20235955.png)
 
 ---
 
