@@ -52,7 +52,7 @@ O projeto foi construído inteiramente via **Prompt Engineering** na plataforma 
 <img width="1604" height="804" alt="image" src="https://github.com/user-attachments/assets/269023d9-e5b1-43f6-a69b-e73beb62102f" />
 
 
-![Login](capturas%20de%20tela/Captura%20de%20tela%202026-06-10%20235955.png)
+<img width="1684" height="756" alt="image" src="https://github.com/user-attachments/assets/d8e4ba5d-b8d1-488b-b63c-8c22ac44c259" />
 
 ---
 
