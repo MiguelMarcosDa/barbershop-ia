@@ -46,16 +46,16 @@ O projeto foi construído inteiramente via **Prompt Engineering** na plataforma 
 ## 📸 Screenshots
 
 ### Home
-![Home](./screenshots/home.png)
+![Home](./capturas%20de%20tela/Captura%20de%20tela%202026-06-10%20235931.png)
 
 ### Análise de Rosto IA
-![Análise IA](./screenshots/analise-ia.png)
+![Análise IA](./capturas%20de%20tela/Captura%20de%20tela%202026-06-10%20235944.png)
 
 ### Loja de Produtos
-![Loja](./screenshots/loja.png)
+![Loja](./capturas%20de%20tela/Captura%20de%20tela%202026-06-10%20235950.png)
 
 ### Login
-![Login](./screenshots/login.png)
+![Login](./capturas%20de%20tela/Captura%20de%20tela%202026-06-10%20235955.png)
 
 ---
 
@@ -75,6 +75,24 @@ O projeto foi construído inteiramente via **Prompt Engineering** na plataforma 
 
 ---
 
+## 🚀 Como Rodar Localmente
+
+```bash
+# Clone o repositório
+git clone https://github.com/MiguelMarcosDa/barbearia-ia.git
+
+# Entre na pasta
+cd barbearia-ia
+
+# Instale as dependências
+npm install
+
+# Rode o projeto
+npm run dev
+```
+
+---
+
 ## 📚 Aprendizados
 
 Este projeto demonstrou na prática como o **Prompt Engineering** pode substituir horas de desenvolvimento tradicional, permitindo criar uma aplicação completa, funcional e visualmente profissional utilizando apenas instruções em linguagem natural para uma IA.
@@ -82,4 +100,3 @@ Este projeto demonstrou na prática como o **Prompt Engineering** pode substitui
 ---
 
 > Desenvolvido como projeto acadêmico de **Prompt Engineering e Aplicações em IA** — 2024/2025
-
