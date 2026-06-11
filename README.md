@@ -78,7 +78,7 @@ O projeto foi construído inteiramente via **Prompt Engineering** na plataforma 
 git clone https://github.com/MiguelMarcosDa/barbearia-ia.git
 
 # Entre na pasta
-captura de tela
+screenshots
 
 
 # Instale as dependências
